@@ -1,7 +1,7 @@
 #include "Manager.h"
 
 
-
+//
 Manager::Manager()
 {
 	janela = new sf::RenderWindow(sf::VideoMode(SCREEN_WIDTH, SCREEN_HEIGHT), "Jogo");
